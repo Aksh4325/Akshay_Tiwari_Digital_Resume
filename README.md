@@ -50,7 +50,8 @@ GitHub: github.com/Aksh4325
 ---
 
 
-## ❤️ Made with passion by Akshay Tiwari — *MCA Student & MERN Stack Developer*
+## ❤️ Made with passion 
+By Akshay Tiwari — *MCA Student & MERN Stack Developer*
 
 ---
 

@@ -47,7 +47,13 @@ LinkedIn: linkedin.com/in/akshay--tiwari
 
 GitHub: github.com/Aksh4325
 
+---
+
+
 ## ❤️ Made with passion by Akshay Tiwari — *MCA Student & MERN Stack Developer*
+
+---
+
 
 ## 📌 How to Use (for developers)
 

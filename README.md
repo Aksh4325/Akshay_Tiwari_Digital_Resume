@@ -1,7 +1,7 @@
-# Akshay Tiwari - Digital Resume Website
+# Akshay Tiwari - Digital Resume Website  
 
 Welcome to my digital resume!  
-This is a professional and responsive resume website built using **HTML** and **CSS**, designed to showcase my skills, projects, and qualifications.
+This is a professional and responsive resume website built using **HTML** and **CSS**, designed to present my work in **Data Analytics, Business Intelligence, and Insight-Driven Reporting**.
 
 ---
 
@@ -19,52 +19,70 @@ Click below to download my resume:
 
 ---
 
-## 🛠️ Technologies Used
 
-- HTML5  
-- CSS3  
-- Responsive Web Design  
-- Git & GitHub (for version control and hosting)
 
----
+## 🛠️ Technologies & Tools  
 
-## ✨ Features
-
-- Clean & modern design  
-- Fully responsive (mobile + desktop)  
-- Clear CTA buttons (Download Resume, Contact)  
-- Hero section for professional intro  
-- GitHub & LinkedIn links  
-- ATS-friendly downloadable resume  
+- Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- SQL  
+- Power BI  
+- Advanced Excel  
+- Data Cleaning & Transformation  
+- Data Visualization & Dashboarding  
+- Git & GitHub  
 
 ---
 
-## 📬 Connect With Me
+## 📊 About Me  
 
-Email: tiwariaksh25@gmail.com
+I work with data to uncover patterns, generate actionable insights, and support informed decision-making.  
 
-LinkedIn: linkedin.com/in/akshay--tiwari
+My focus lies in transforming raw datasets into structured, analysis-ready formats and building clear, meaningful visual reports that communicate business performance effectively.  
 
-GitHub: github.com/Aksh4325
+Through hands-on projects and analytical problem-solving, I have developed a strong understanding of:
+
+- Data preprocessing and cleaning workflows  
+- Exploratory Data Analysis (EDA)  
+- KPI tracking and performance analysis  
+- Dashboard development and reporting automation  
+- Insight communication for non-technical stakeholders  
+
+I approach every dataset with a structured mindset — understanding the problem first, then extracting insights that truly matter.
 
 ---
 
+## ✨ Key Highlights  
 
-## ❤️ Made with passion 
-By Akshay Tiwari — *MCA Student & MERN Stack Developer*
+- Designed interactive dashboards to monitor business metrics  
+- Performed end-to-end data analysis using Python and SQL  
+- Applied analytical techniques to identify trends and anomalies  
+- Delivered structured reports with actionable recommendations  
+- Maintained version-controlled analytical projects on GitHub  
 
 ---
 
+## 📬 Connect With Me  
 
-## 📌 How to Use (for developers)
+Email: tiwariaksh25@gmail.com  
+
+LinkedIn: https://linkedin.com/in/akshay--tiwari  
+
+GitHub: https://github.com/Aksh4325  
+
+---
+
+## ❤️ Built with Analytical Thinking  
+By Akshay Tiwari — MCA Student | Data Analytics & Business Intelligence  
+
+---
+
+## 📌 How to Use (for developers)  
 
 To clone and run this project locally:
 
 ```bash
 git clone https://github.com/Aksh4325/Akshay_Tiwari_Digital_Resume.git
 cd Akshay_Tiwari_Digital_Resume
+```
 
-Then open Index.html in your browser.
-
-
-
+Then open `index.html` in your browser.

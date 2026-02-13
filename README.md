@@ -8,14 +8,14 @@ This is a professional and responsive resume website built using **HTML** and **
 ## 🔗 Live Demo
 
 Check out the live version here:  
-**[https://aksh4325.github.io/Akshay_Tiwari_Data Analyst_Resume/](https://aksh4325.github.io/Akshay_Tiwari_Data Analyst.pdf/)**
+**[https://aksh4325.github.io/Akshay_Tiwari_Data Analyst_Resume/](https://github.com/Aksh4325/Akshay_Tiwari_Digital_Resume/blob/main/Akshay_Tiwari_Data%20Analyst.pdf)**
 
 ---
 
 ## 📄 Download My Resume (PDF)
 
 Click below to download my resume:  
-[Download Resume](https://aksh4325.github.io/Akshay_Tiwari_Digital_Resume/Akshay_Tiwari_Data Analyst.pdf)
+[Download Resume](https://github.com/Aksh4325/Akshay_Tiwari_Digital_Resume/blob/main/Akshay_Tiwari_Data%20Analyst.pdf)
 
 ---
 
